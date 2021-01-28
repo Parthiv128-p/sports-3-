@@ -1,0 +1,35 @@
+body{
+	text-align: center;
+	background: linear-gradient( #69bdd2 0%,#e07b39 100%);
+	background: linear-gradient( #69bdd2 0%,#e07b39 100%);
+}
+#line{
+    height: 10px;
+background-color: darkblue;
+    width: 30px;
+    margin: auto
+}
+.menu{
+    list-style: none;
+    position:absolute;
+    right: 10px;
+    top: 10px;
+    z-index: 10;
+    cursor: pointer;
+}
+.list{
+    float: left;
+    padding-left: 10px;
+    padding-bottom: 10px;
+     padding-right: 10px;
+     padding-top: 10px;
+    font-family: fantasy;
+    font-size: 20px;
+    color:darkblue;
+}
+.list:hover{
+    background-color:pink
+}
+#sec1{
+	margin-top:150px;
+}
